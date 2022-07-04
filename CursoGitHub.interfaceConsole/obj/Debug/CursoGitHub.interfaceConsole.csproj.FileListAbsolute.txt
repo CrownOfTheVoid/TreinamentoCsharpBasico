@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\CursoGitHub.interfaceConsole\CursoGitHub.interfaceConsole\obj\Debug\CursoGitHub.interfaceConsole.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\CursoGitHub.interfaceConsole\CursoGitHub.interfaceConsole\obj\Debug\CursoGitHub.interfaceConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\CursoGitHub.interfaceConsole\CursoGitHub.interfaceConsole\bin\Debug\CursoGitHub.interfaceConsole.exe.config
+C:\Users\Aluno\Desktop\CursoGitHub.interfaceConsole\CursoGitHub.interfaceConsole\bin\Debug\CursoGitHub.interfaceConsole.exe
+C:\Users\Aluno\Desktop\CursoGitHub.interfaceConsole\CursoGitHub.interfaceConsole\bin\Debug\CursoGitHub.interfaceConsole.pdb
+C:\Users\Aluno\Desktop\CursoGitHub.interfaceConsole\CursoGitHub.interfaceConsole\obj\Debug\CursoGitHub.interfaceConsole.exe
+C:\Users\Aluno\Desktop\CursoGitHub.interfaceConsole\CursoGitHub.interfaceConsole\obj\Debug\CursoGitHub.interfaceConsole.pdb
